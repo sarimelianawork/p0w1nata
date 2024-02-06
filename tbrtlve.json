@@ -1,0 +1,273 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
+      "email_feedback_and_report": "report.solodroid@gmail.com",
+      "show_related_channels": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false,
+      "landscape_mode_as_default_player_orientation": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_app_open_id": "test-app-open",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "interstitial_ad_interval": 3,
+      "native_ad_index_list": 3,
+      "native_ad_index_grid2": 2,
+      "native_ad_index_grid3": 6,
+      "native_ad_interval_list": 6,
+      "native_ad_interval_grid2": 7,
+      "native_ad_interval_grid3": 10,
+      "native_ad_style": "medium",
+      "native_ad_channel_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_channel_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_channel_list": true,
+      "show_interstitial_ad_channel_details": true,
+      "show_native_ad_channel_list": true,
+      "show_native_ad_channel_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+ "categories": [
+		{
+			"id": 1,
+			"name": "lokal",
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+		},
+		{
+			"id": 2,
+			"name": "asia",
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+		},
+		{
+			"id": 3,
+			"name": "short",
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+		}
+	],
+	"channels": [
+		{
+			"id": 19,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 18,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 17,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 16,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 15,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 14,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 13,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 12,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 11,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 10,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 9,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 8,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 7,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 6,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 5,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 4,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 3,
+			"category": "lokal",
+			"title": "clau",
+			"image": "https://i.ibb.co/mbrH0t6/clau-mp4-snapshot-10-29-2023-12-07-18-05-19.jpg",
+			"description": "",
+			"streaming_url": "https://2475155346.tapecontent.net/radosgw/KWmAbgGz3aU03K2/i7Hggut25lRnfcBd3gb8IG3RC4SVhS7IW2i7Ax4N1q2UEpbLwSRs9mtkt4DMW49T8tHXZOQ4hOQ5NKEWKNRoiXdRmTHy6rZY4Iw9VrGzEBPZabuXrXRGBYkwVuyu-IDVGSYxrifhu_xEX9uFQ0Cll4v1bkKo-mFFhXODwlZimUUi3pOTR4aoP9S3aLtXwX4zp-kbAgn7NDyz-BzYvqLikO-3v5g22DAQ8jn9uRem1Hx3J48Y8N3TY6WVwrv64RcWAgr07-bfTCGQVNLJ/clau.mp4",
+			"user_agent": ""
+		},
+		{
+			"id": 2,
+			"category": "lokal",
+			"title": "peaarr",
+			"image": "https://i.ibb.co/bm4vrp3/peaarr-mp4-snapshot-07-54-2023-12-04-04-03-34.jpg",
+			"description": "",
+			"streaming_url": "https://2475154806.tapecontent.net/radosgw/VGA9aey8m1UKmyA/l63fWt6akqytAa7TKL6KFaZZrke0GO_kSZmbuC244rqxcFb836WtZR7N_oN8rjeuWDhaDM8zoOerSnk79phhqhrgOWnQvIJxaGp1BP3Y2tU-ZSVAEudGdhOGXvKS9-GpB5Q53wbDuUJs9HfoKg4A0sBTx-SxZy4vY4JIP1qdQCyDO5EDfYUk37ykpRQUq9Kp4YqTAb5Jr5Qz8rdKmmLorVYGmO5neSHHQYLvxxduQMfTQqrR_nAf8CyF7C6pxWsPeRyMFqNRwx5xb17a/peaarr.mp4",
+			"user_agent": ""
+		},
+		{
+			"id": 1,
+			"category": "lokal",
+			"title": "piscesgirl",
+			"image": "https://i.ibb.co/MsBKC7s/piscesgirl-mp4-snapshot-06-14-2023-12-04-04-03-47.jpg",
+			"description": "",
+			"streaming_url": "https://908357271.tapecontent.net/radosgw/kvk2lmz87lsOA26/-neqNuolJSAIyIUIedxzqYuXMI4OzHcjfpXzEtWEPyexknl3MLs1Bk30Exqmw5zVgbgA4O9LDHNQm_IWMx3L5U_Z45TK1eZ5ssTqq1I0iAgO0CB0Zh9JYEGZAHyKXdDX8pmEtd_K712TdBbshHm77MjrBiraHdi3CQPQrLN91YeDa6uUBGm50uGjh66bjX40icQifF45W38QS7bitFi7UFqJlSIGujuLcxBf1fmkoQKbBXmxyr0KVKH2N1qN6VDDbXqdEfy6zq2TfMZkSLMGY4lpAe8595m2XdF_Pw/piscesgirl.mp4",
+			"user_agent": ""
+		}
+	],
+	"more_apps": [
+		{
+			"id": 1,
+			"title": "",
+			"image": "",
+			"url": ""
+		}
+	]
+}
