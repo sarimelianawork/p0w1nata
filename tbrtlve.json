@@ -3,8 +3,8 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
-      "email_feedback_and_report": "report.solodroid@gmail.com",
+      "privacy_policy_url": "https://doc-hosting.flycricket.io/tobrut-live-privacy-policy/17018ed5-192c-4ebb-a5a0-4db640a6a038/privacy",
+      "email_feedback_and_report": "",
       "show_related_channels": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
@@ -17,7 +17,7 @@
   ],
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ad": "admob",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
